@@ -17,5 +17,5 @@ b.) json file
 c.) image file
 d.) zip file
 
-Besides, we have send the text message also from client.
+Besides, we have sent the text message from client.
 
